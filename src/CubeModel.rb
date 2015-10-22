@@ -1,3 +1,6 @@
+# Created October 20th, 2015
+# Last modified October 21st, 2015
+
 class CubeModel
      def initialize
          @L = Array.new 9, 0
